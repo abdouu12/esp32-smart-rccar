@@ -4,7 +4,7 @@ A Wi-Fi-controlled RC car powered by an ESP32, with live video streaming via an 
 
 # How to use it:
 
-make sure have the following:
+make you sure have the following:
 ## hardware:
 ### Microcontrollers & Electronics:
 ESP MCU  (I used the ESP32-WROOM32)
